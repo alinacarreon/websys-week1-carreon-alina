@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color:beige
+}
+
+img {
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    image-rendering: -webkit-optimize-contrast;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3em;
+    margin-top: 20px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 2em;
+    margin-top: 20px;
+}
+
+p.course {
+    text-align: center;
+    margin-top: 15px;
+}
+
+p.intro {
+    text-align: center;
+    margin-top: 15px;
+}
+
+p.explain {
+    text-align: center;
+    margin-top: 15px;
+}
+
+footer {
+    font-style: italic;
+    text-align: center;
+    margin-top: 20px;
+}
+
+a {
+    display: block;
+    font-style: normal;
+    text-align: center;
+    margin-top: 10px;
+    text-decoration: none;
+}
